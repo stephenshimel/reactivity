@@ -1,0 +1,12 @@
+/Users/stephen.shi/Desktop/code/reactivity/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/stephen.shi/Desktop/code/reactivity/Domain/bin/Debug/net5.0/Domain.dll
+/Users/stephen.shi/Desktop/code/reactivity/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/stephen.shi/Desktop/code/reactivity/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.dll
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/stephen.shi/Desktop/code/reactivity/Domain/obj/Debug/net5.0/Domain.pdb

@@ -1,0 +1,17 @@
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Application.deps.json
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Application.dll
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/ref/Application.dll
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Application.pdb
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Domain.dll
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Persistence.dll
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Persistence.pdb
+/Users/stephen.shi/Desktop/code/reactivity/Application/bin/Debug/net5.0/Domain.pdb
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.csprojAssemblyReference.cache
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.AssemblyInfoInputs.cache
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.AssemblyInfo.cs
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.csproj.CoreCompileInputs.cache
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.csproj.CopyComplete
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.dll
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/ref/Application.dll
+/Users/stephen.shi/Desktop/code/reactivity/Application/obj/Debug/net5.0/Application.pdb
